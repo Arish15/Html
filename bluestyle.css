@@ -3,6 +3,11 @@ background-color: red;
 }
 
 h1 {
-color:white ;
-margin-left: 20px;
+color:black ;
+margin-left: 0px;
+}
+
+
+p {
+    color:blue;
 }
